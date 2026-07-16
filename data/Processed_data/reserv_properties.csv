@@ -1,0 +1,251 @@
+GRAND_ID,GDW_ID,Name,Main_use,Uses,Cap_mcm,River,Disch_ls,Reg_degre,Elev,area_km,perm_km,HUC2,Lat,Long
+41,480,Ross,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",1791.9,Skagit River,71572,79.4,472,35.094,73.016,17,48.732466000000066,-121.06730499999998
+42,2175,Diablo,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",111,Skagit River,83329,4.2,370,2.564,14.397,17,48.71458300000008,-121.13031999999998
+55,2215,Keechelus Lake,Irrigation,Irrigation (Main),196.923,Yakima River,5800,106.6,758,9.22,21.507,17,47.32365400000007,-121.34017099999994
+57,521,Kachess Lake,Irrigation,Irrigation (Main),302.2,Kachess River,5965,160.6,688,16.987,37.606,17,47.26595600000007,-121.20520799999997
+63,2248,Rimrock,Irrigation,Irrigation (Main),245.629,Tieton River,9112,85,883,8.239,27.022,17,46.654792000000015,-121.12832199999998
+80,2377,Detroit Lake,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Flood control (Sec), Recreation (Sec), Other (Sec)",561.405,North Santiam River,52032,34.2,455,8.469,37.029,17,44.719354000000045,-122.24791699999999
+88,2417,Blue River Lake,Flood control,"Flood control (Main), Recreation (Sec)",109.8,Blue River,10300,33.8,391,2.399,19.686,17,44.17358000000007,-122.32812499999994
+89,2423,South Fork Mckenzie River,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Water supply (Sec), Flood control (Sec), Recreation (Sec), Other (Sec)",270.1,South Fork of Mckenzie River,19525,43.9,487,2.835,16.148,17,44.126141000000075,-122.24003599999998
+90,666,Fern Ridge Lake,Flood control,"Flood control (Main), Recreation (Sec)",149.3,Long Tom River,23230,20.4,111,26.741,39.176,17,44.11751800000007,-123.29687499999994
+92,2436,Fall Creek Lake,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",154.2,Fall Creek,17550,27.9,234,3.297,19.713,17,43.94483700000003,-122.75519999999995
+97,2444,Dorena Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec), Other (Sec)",161.6,Row River,21781,23.5,241,4.163,11.559,17,43.78714000000002,-122.95427799999997
+100,2452,Hills Creek Lake,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",439.1,Middle Fork of Willamette River,32820,42.4,450,7.402,27.744,17,43.70854800000008,-122.42170299999998
+116,2558,Applegate Reservoir,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec)",110.2,Applegate River,11932,29.3,589,2.218,17.867,17,42.05466100000004,-123.11391599999996
+131,757,Clair Engle Lake,Irrigation,"Irrigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",3079.727,Trinity River,41008,203.6,716,56.355,167.465,18,40.802949000000055,-122.76068699999996
+132,138,Shasta Lake,Irrigation,"Irrigation (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Navigation (Sec)",5595.835,Sacramento River,127250,121.9,323,102.594,364.449,18,40.72045900000005,-122.42203099999996
+133,759,Whiskeytown,Hydroelectricity,Hydropower (Main),313.142,Clear Creek,11922,70.1,370,11.094,30.181,18,40.59943200000004,-122.54056399999995
+148,785,Lake Oroville,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Water supply (Sec), Recreation (Sec)",4366.5,Feather River,134108,103.2,254,45.595,172.066,18,39.53961600000005,-121.48121799999996
+182,809,Folsom Lake,Irrigation,"Irrigation (Main), Hydropower (Sec), Water supply (Sec), Flood control (Sec), Recreation (Sec)",1208.604,American River,93684,37.3,130,33.702,88.469,18,38.71042600000006,-121.15624099999997
+192,2921,Beardsley,Hydroelectricity,Hydropower (Main),120.634,Middle Fork of Stanislaus River,11443,33.4,1010,1.836,7.885,18,38.20629700000013,-120.07281699999999
+198,832,New Melones,Irrigation,"Irrigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",2985,Stanislaus River,41524,227.9,327,43.237,142.8,18,37.948664000000115,-120.52286299999999
+210,837,Don Pedro Reservoir,Irrigation,Irrigation (Main),2521.233,Tuolumne River,57604,137.8,245,41.577,140.022,18,37.702820000000024,-120.41901699999994
+293,487,Fresno,Irrigation,"Irrigation (Main), Water supply (Sec), Flood control (Sec)",144.39,Milk River,227,1772.7,774,11.295,40.075,10,48.599168000000105,-109.94903699999998
+300,493,Lake Elwell,Irrigation,"Irrigation (Main), Water supply (Sec), Flood control (Sec), Recreation (Sec)",1757.1,Marias River,30288,184,906,65.333,178.975,10,48.32293100000002,-111.10209699999996
+305,102,Pend Oreille Lake,Hydroelectricity,"Hydropower (Main), Flood control (Sec)",1902.396,Pend Oreille River,765940,5.9,623,361.338,318.744,17,48.17829400000005,-116.99774499999997
+307,104,Fort Peck Lake,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",23560,Missouri,306445,243.8,677,816.432,1214.916,10,48.001098000000106,-106.41458300000001
+310,105,Franklin D. Roosevelt,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Flood control (Sec)",6396.151,Columbia River,3166706,6.4,383,270.004,494.412,17,47.95465200000004,-118.98094999999995
+319,2197,Gibson,Irrigation,Irrigation (Main),122.206,Sun River,12921,30,1428,3.921,17.747,10,47.600420000000035,-112.76239499999997
+355,606,Bighorn Lake,Irrigation,"Irrigation (Main), Hydropower (Sec), Water supply (Sec), Flood control (Sec), Recreation (Sec), Other (Sec)",1760.6,Bighorn River,113929,49,1105,11.103,63.582,10,45.30585900000001,-107.95714299999997
+362,624,Clark Canyon,Irrigation,"Irrigation (Main), Flood control (Sec)",281.208,Beaverhead River,19694,35.1,1687,18.071,26.201,10,44.99786900000003,-112.86042599999996
+364,633,Hebgen Lake,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Flood control (Sec), Recreation (Sec)",648.3,Madison River,24465,84,1991,48.229,85.438,10,44.86322700000005,-111.33405699999997
+368,642,Lima,Irrigation,Irrigation (Main),164.1,Red Rock River,9658,53.9,2003,14.348,47.031,10,44.65490200000005,-112.363205
+373,651,Buffalo Bill,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",797.626,Shoshone River,7950,297.6,1638,25.718,37.141,10,44.500233,-109.18681899999996
+374,655,Island Park,Irrigation,Irrigation (Main),169.953,Henrys Fork,14223,35,1922,29.103,82.69,17,44.42005100000009,-111.39499099999995
+384,127,Jackson Lake,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",1078.232,Snake River,23618,144.6,2060,106.319,124.109,17,43.85748500000004,-110.59112599999997
+386,683,Lake Owyhee,Irrigation,Irrigation (Main),900.883,Owyhee River,32208,86.8,809,40.562,168.901,17,43.639981999999996,-117.23852199999999
+387,2462,Arrowrock,Irrigation,"Irrigation (Main), Hydropower (Sec), Flood control (Sec)",357.954,Boise River,23205,48.3,974,8.829,53.337,17,43.59355800000008,-115.92157599999996
+391,2468,Lucky Peak Lake,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec)",378.7,Boise River,29634,40.5,910,5.763,35.564,17,43.52635900000014,-116.05208299999997
+393,694,Boysen,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",1094.26,Wind,56618,38,1439,74.557,127.822,10,43.41415700000007,-108.17722099999997
+396,699,Palisades,Irrigation,"Irrigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",1498.168,Snake River,103326,45.4,1711,59.738,83.964,17,43.330514000000065,-111.20202799999998
+398,704,Bull Lake,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",187.2,Bull Lake Creek,2094,283.5,1767,10.889,27.81,10,43.209951000000004,-109.04441299999996
+405,709,C.J. Strike,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Recreation (Sec)",309.11,Snake River,459401,2.1,745,25.203,88.893,17,42.947917000000054,-115.97291699999994
+411,134,American Falls,Irrigation,"Irrigation (Main), Hydropower (Sec), Recreation (Sec)",2103.993,Snake River,251532,26,1324,199.627,141.276,17,42.779062000000096,-112.87370799999997
+413,717,Lake Walcott,Irrigation,"Irrigation (Main), Hydropower (Sec), Recreation (Sec)",122.911,Snake River,272162,1.4,1275,30.569,56.933,17,42.66760900000002,-113.48408399999994
+416,721,Pathfinder,Irrigation,"Irrigation (Main), Hydropower (Sec)",1308.226,North Platte River,73730,53.9,1779,75.194,145.697,10,42.463910000000055,-106.85370599999999
+421,727,Seminoe,Irrigation,"Irrigation (Main), Hydropower (Sec), Recreation (Sec)",1254.8,North Platte River,49468,80.4,1934,57.29,198.577,10,42.154838000000055,-106.90635799999995
+423,732,Fontenelle,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",432.579,Green River,56459,10.4,1978,31.367,53.988,14,42.028371000000014,-110.06562499999995
+438,2611,Pineview,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Water supply (Sec), Recreation (Sec)",139.773,Ogden River,5218,82.5,1490,9.689,34.53,16,41.25482600000001,-111.84179499999999
+451,137,Flaming Gorge,Water supply,"Water supply (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",4518.063,Green River,97626,140.8,1836,126.703,325.871,14,40.91566500000003,-109.42047099999996
+477,2722,Deer Creek,Irrigation,"Irrigation (Main), Hydropower (Sec), Recreation (Sec)",189.329,Provo River,7363,79.5,1652,9.587,28.134,16,40.407034000000095,-111.52582099999995
+488,767,Bor Starvation,Water supply,Water supply (Main),233.1,Strawberry River,5871,125.9,1741,11.274,38.181,14,40.19126400000004,-110.44483399999996
+492,771,Lake Granby,Irrigation,"Irrigation (Main), Hydropower (Sec)",664.8,Colorado River,1936,940.6,2520,24.704,51.374,14,40.13974800000005,-105.85601299999996
+493,772,Strawberry,Irrigation,"Irrigation (Main), Hydropower (Sec), Water supply (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",1390.9,Strawberry River,2114,2086.3,2316,61.197,121.241,14,40.13714600000006,-111.02827499999995
+497,2759,Williams Fork,Water supply,Water supply (Main),125.3,Williams Fork River,3601,110.3,2379,5.351,18.079,14,40.03395000000002,-106.20594299999999
+502,2775,Green Mountain,Irrigation,"Irrigation (Main), Hydropower (Sec), Recreation (Sec)",189.433,Blue River,9539,46.2,2416,6.652,24.137,14,39.876756000000036,-106.32930899999997
+509,783,Dillon,Recreation,"Recreation (Main), Water supply (Sec)",376.2,Blue River,4138,288.3,2751,12.318,34.152,14,39.61875000000002,-106.06041599999998
+511,2800,Chatfield Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec)",64.839,South Platte River,8869,156.6,1658,5.248,13.228,10,39.55497000000005,-105.05624999999999
+517,2823,Ruedi,Irrigation,"Irrigation (Main), Fisheries (Sec)",160.4,Fryingpan River,2815,180.7,2361,2.999,14.834,14,39.36497700000011,-106.81449599999996
+519,2833,Sugar Loaf,Irrigation,"Irrigation (Main), Recreation (Sec), Fisheries (Sec)",178.519,Lake Fork of Arkansas River,256,2071,3011,6.426,16.484,11,39.25366300000009,-106.37140799999999
+522,2838,Cheesman,Water supply,Water supply (Main),107.6,South Platte River,4775,71.5,2086,2.672,20.3,10,39.21003900000005,-105.27388199999996
+529,2867,Antero,Water supply,"Water supply (Main), Recreation (Sec)",29.29,South Fork of South Platte River,632,711.5,2726,9.128,18.678,10,38.98929700000006,-105.89565499999998
+530,2870,Spinney Mountain,Water supply,"Water supply (Main), Recreation (Sec)",102.7,South Platte River,2405,135.4,2647,6.149,13.128,10,38.97361000000007,-105.62360799999999
+536,2881,Taylor Park,Irrigation,Irrigation (Main),131,Taylor Park,3353,123.9,2841,5.861,13.483,14,38.820602000000086,-106.60428899999994
+541,816,Blue Mesa,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Flood control (Sec), Recreation (Sec)",1021.488,Gunnison River,52371,55.9,2288,30.256,93.391,14,38.453670000000045,-107.33361099999996
+554,2935,Lloyd Lake,Irrigation,Irrigation (Main),338.467,Cherry Creek,4469,239.4,1439,6.718,15.929,18,37.977502000000044,-119.910579
+567,842,McPhee,Irrigation,"Irrigation (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",472.608,Delores,9433,95,2111,14.871,55.403,14,37.57821500000005,-108.57143599999995
+575,2982,Vallecito,Irrigation,Irrigation,154.971,Los Pinos River,3120,157.2,2333,9.847,16.644,14,37.377799000000046,-107.57206399999995
+597,146,Lake Powell,Hydroelectricity,"Hydropower (Main), Irrigation (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",29422.124,Colorado River,562446,141.3,1121,120.798,306.228,14,36.93963500000006,-111.48522799999995
+601,856,Navajo,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec)",2057.114,San Juan River,43946,92.2,1852,52.196,184.645,14,36.801492000000046,-107.60948099999996
+604,861,El Vado Reservoir Dam,Irrigation,Irrigation (Main),270.8,Rio Chama,6236,137.7,2102,11.183,32.873,13,36.594947000000076,-106.73298899999998
+610,153,Lake Mead,Water supply,"Water supply (Main), Irrigation (Sec), Hydropower (Sec)",36700,Colorado River,586683,198.4,370,581.059,759.631,15,36.01819100000009,-114.73500599999994
+613,3064,Cochiti Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec), Other (Sec)",162.585,Rio Grande,61111,46.2,1630,4.307,18.922,13,35.61975000000007,-106.31748499999998
+616,908,Lake Mohave,Hydroelectricity,Hydropower (Main),2242.9,Colorado River,507351,14,198,98.685,188.8,15,35.20227000000007,-114.57279099999994
+625,3142,Lake Piru,Water supply,"Water supply (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec)",115.824,Piru Creek,6722,51.2,320,3.619,13.783,18,34.46214700000011,-118.75339099999997
+629,935,Lake Havasu,Water supply,"Water supply (Main), Irrigation (Sec), Hydropower (Sec)",838.89,Colorado River,519260,4.9,136,60.776,151.002,15,34.29867000000008,-114.13872499999997
+657,173,Elephant Butte Reservoir,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec)",2932.4,Rio Grande,53131,175,1351,110.325,162.201,13,33.15604900000005,-107.18925299999997
+753,20,Lake Sakakawea,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",30220,Missouri,803718,119.2,555,1130.064,1199.922,10,47.50613000000004,-101.43229199999996
+767,116,Leech Lake Reservoir,Recreation,"Recreation (Main), Water supply (Sec), Flood control (Sec), Navigation (Sec), Fisheries (Sec)",838.8,Leech River,17440,152.5,391,413.681,292.959,07,47.25178200000004,-94.22351799999996
+768,6853,Pokegama Reservoir,Recreation,"Recreation (Main), Water supply (Sec), Flood control (Sec), Navigation (Major), Fisheries (Sec)",978,Mississippi,51311,9.1,384,36.1,136.416,07,47.25132609100004,-93.58828518799999
+774,527,Lake Ashtabula,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",192.4,Sheyenne River,18486,33,383,19.855,88.897,09,47.03629700000004,-98.07989799999996
+798,544,Lake Tschida,Irrigation,"Irrigation (Main), Flood control (Sec)",177.952,Offstream Heart River,11414,147.4,624,10.441,35.796,10,46.596531000000034,-101.81219199999998
+837,585,Shadehill,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec), Other (Sec)",578,Grand River,16075,114,687,17.259,53.671,10,45.75110700000003,-102.20315499999998
+868,640,Belle Fourche,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec)",242.74,Belle Fourche River,1427,507.8,902,28.953,54.112,10,44.73543799999999,-103.67731799999996
+870,21,Lake Oahe,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",29110,Missouri,965451,95.6,485,1095.029,1675.157,10,44.4563160000001,-100.39796999999999
+872,656,Keyhole,Irrigation,"Irrigation (Main), Flood control (Sec)",236.215,Belle Fourche River,9632,75.5,1247,15.075,55.256,10,44.379972000000066,-104.78124999999994
+882,2429,Pactola,Water supply,"Water supply (Main), Irrigation (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",173.8,Rapid Creek,1421,387.8,1398,2.755,17.504,10,44.07291700000008,-103.49062499999997
+884,126,Lake Sharpe,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",2343.6,Missouri,986072,7.5,428,228.918,340.552,10,44.0397850000001,-99.44864599999994
+893,698,Angostura,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec), Other (Sec)",163.702,Cheyenne River,34081,9.5,971,16.285,39.705,10,43.34207300000002,-103.43548899999996
+895,713,Lewis and Clark Lake,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",666.1,Missouri,950348,2.2,364,85.016,76.843,10,42.85033700000005,-97.48324399999996
+898,720,Glendo,Flood control,"Flood control (Main), Irrigation (Sec), Hydropower (Sec)",884.559,North Platte River,89257,19.9,1406,36.033,77.505,10,42.480230000000084,-104.95329899999996
+924,756,Rathbun Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Navigation (Sec)",724.797,Chariton River,11902,181.4,274,50.652,144.532,10,40.831517000000076,-92.88137699999999
+938,2726,Harry Strunk Lake,Irrigation,"Irrigation (Main), Flood control (Sec)",63.102,Medicine Creek,1228,618.2,724,5.551,28.089,10,40.37890200000003,-100.21944699999995
+939,2729,Hugh Butler Lake,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec)",201.6,Red Willow Creek,681,938.7,786,4.966,24.333,10,40.36083700000004,-100.66625099999999
+948,775,Harlan County Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec)",1018.5,Republican,22093,146.2,595,50.064,61.12,10,40.07286899999999,-99.21466999999996
+953,2781,Keith Sebelius Lake,Irrigation,"Irrigation (Main), Flood control (Sec), Recreation (Sec)",50.449,Prairie Dog Creek,1714,440.5,703,5.692,25.009,10,39.80552400000005,-99.93574999999998
+955,2785,Long Branch Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",120.9,East Fork of Little Chariton Rive,2053,186.7,240,8.163,40.091,10,39.75345900000006,-92.51738199999996
+956,782,Kirwin,Irrigation,"Irrigation (Main), Flood control (Sec)",178.457,North Fork of Soloman River,3053,114.9,528,12.827,47.504,10,39.65970199999998,-99.12708299999997
+957,2789,Cherry Creek Lake,Flood control,"Flood control (Main), Recreation (Sec)",19.152,Cherry Creek,910,578.1,1693,3.451,8.123,10,39.64665800000003,-104.85989999999998
+961,786,Mark Twain Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec)",2296.6,Salt,43720,166.6,181,58.887,223.706,07,39.52614600000007,-91.64847499999996
+962,790,Waconda Lake,Irrigation,"Irrigation (Main), Water supply (Sec), Flood control (Sec), Recreation (Sec)",1136.409,Soloman River,17202,46.6,445,36.637,44.963,10,39.47308100000005,-98.31886399999996
+963,795,Webster,Flood control,"Flood control (Main), Irrigation (Sec)",495.4,South Fork of Solomon River,1799,873.2,579,14.274,25.023,10,39.40559000000005,-99.42460899999998
+964,796,Smithville Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",304.1,Little Platte River,4009,240.5,263,24.685,105.961,10,39.398007000000035,-94.55496699999998
+965,800,Tuttle Creek Lake,Flood control,"Flood control (Main), Recreation (Sec), Navigation (Sec)",2896.058,Big Blue River,107275,82.3,327,42.913,83.715,10,39.26041700000005,-96.59374999999994
+967,801,Perry Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",949.8,Delaware River,20161,149.4,274,40.215,85.373,10,39.11167500000009,-95.43239099999994
+968,803,Milford Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",1660.618,Republican River,42232,106,347,65.934,116.136,10,39.078243000000036,-96.89960899999994
+972,805,Wilson Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec), Other (Sec)",907.8,Saline River,4918,585.3,464,34.361,89.033,10,38.963636000000044,-98.49374999999998
+975,806,Clinton Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",454.8,Wakarusa River,7398,194.9,266,28.307,54.564,10,38.91875000000007,-95.33134799999999
+976,808,Cedar Bluff,Irrigation,"Irrigation (Main), Water supply (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",239.998,Smoky Hill River,3796,154.3,658,21.206,53.705,10,38.785402,-99.72387999999995
+979,810,Hillsdale Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",197.4,Big Bull Creek,3103,201.7,278,16.565,45.705,10,38.657410999999996,-94.90277499999996
+980,811,Pomona Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",314,Hundred Ten Mile Creek,6705,148.5,296,13.673,41.589,10,38.65344800000006,-95.55748799999998
+981,813,Kanopolis Lake,Flood control,"Flood control (Main), Irrigation (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",166.82919999999947,Smoky Hill River,13261,127.7,447,12.583,25.907,10,38.60909499999998,-97.966322
+982,814,Melvern Lake,Flood control,"Flood control (Main), Recreation (Sec)",447.8,Marais des Cygnes,6792,209.1,314,23.956,79.27,10,38.514070000000054,-95.71571799999998
+983,818,Marion Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",233.4,Cottonwood River,2495,296.6,412,24.651,42.643,11,38.37071600000009,-97.08314999999999
+987,821,Pueblo,Irrigation,Irrigation (Main),603.3,Arkansas River,3481,549.6,1491,15.671,60.47,11,38.27291700000002,-104.72738199999998
+989,142,Harry S. Truman Reservoir,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Flood control (Sec), Recreation (Sec)",6416.6,Osage River,300115,67.8,215,186.964,686.036,10,38.26487300000007,-93.40624999999994
+991,822,John Redmond Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",803.444,Grand Neosho River,53608,45.7,316,33.386,36.496,11,38.239796000000034,-95.76479399999995
+998,828,John Martin Reservoir,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec)",750.3,Arkansas,15563,152.9,1171,44.074,61.457,11,38.06458200000004,-102.93958499999997
+1000,833,Pomme de Terre Lake,Flood control,"Flood control (Main), Navigation (Sec)",801.8,Pomme de Terre River,20163,126.1,258,30.594,139.66,10,37.89718699999999,-93.32170299999996
+1001,834,El Dorado Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",304.5,Walnut River,4732,204,409,30.284,77.364,11,37.84062300000006,-96.81381399999998
+1003,2956,Toronto Lake,Flood control,"Flood control (Main), Water supply (Sec)",393.4,Verdigris River,15701,79.5,277,9.756,36.805,11,37.74152600000007,-95.92199599999998
+1006,838,Stockton Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",2064.8,Sac River,36836,177.7,265,96.492,330.42,10,37.68958300000004,-93.76874999999997
+1007,2963,Fall River Lake,Flood control,"Flood control (Main), Other (Sec)",316.3,Fall River,11034,90.9,292,8.831,25.025,11,37.649317999999994,-96.06874999999997
+1016,3009,Trinidad Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec), Other (Sec)",203.4,Purgatoire River,188,3430.7,1900,4.772,16.211,11,37.14242600000003,-104.55290099999996
+1017,3010,Clearwater Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec)",509.4,Black,26218,61.6,151,6.916,33.823,11,37.13632300000006,-90.77444799999996
+1020,854,Copan Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",416.9,Little Caney,11201,118,217,16.717,41.242,11,36.8863850000001,-95.97291699999994
+1021,857,Great Salt Plains Lake,Flood control,"Flood control (Main), Other (Sec)",227,Salt Fork of Arkansas River,24369,158.9,349,82.761,61.837,11,36.747179000000095,-98.14047299999999
+1023,858,Kaw Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",1764.714,Arkansas River,116488,44.6,308,58.758,114.157,11,36.70215400000011,-96.92703199999994
+1026,148,Table Rock Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",4681.92,White,147921,91.5,277,118.106,555.374,11,36.59793600000006,-93.31164799999999
+1027,3029,Fort Supply Lake,Flood control,"Flood control (Main), Recreation (Sec)",33.499,Wolf Creek,4647,84.8,617,6.58,13.918,11,36.55085500000008,-99.56583899999998
+1028,3030,Birch Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",137,Birch Creek,1235,351.8,234,3.656,24.486,11,36.53064700000005,-96.16181499999999
+1032,151,Oologah Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",2176.493,Verdigris River,93714,65.1,193,114.74,168.771,11,36.42407800000007,-95.67941599999995
+1033,867,Beaver Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",2494.294,White,36352,210,343,71.362,279.191,11,36.422916000000036,-93.84921899999995
+1036,152,Bull Shoals Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",6802.358,White,226176,93.5,197,153.203,697.167,11,36.36538500000004,-92.57291699999996
+1042,874,Norfork Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",2501.491,North Fork of White River,64257,120.7,166,79.436,351.731,11,36.252069000000034,-92.23837699999996
+1048,880,Keystone Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",2313.05,Arkansas River,260936,25.1,223,79.644,247.819,11,36.152083000000076,-96.25624999999998
+1050,883,Canton Lake,Flood control,"Flood control (Main), Irrigation (Sec), Water supply (Sec)",473.4,North Canadian River,9697,154.8,496,27.295,33.913,11,36.08576200000007,-98.60208299999994
+1053,887,Fort Gibson Lake,Hydroelectricity,"Hydropower (Main), Flood control (Sec)",1584.3,Grand River,284421,17.7,170,67.457,189.137,11,35.870603000000095,-95.23229199999997
+1060,897,Tenkiller Lake,Flood control,"Flood control (Main), Hydropower (Sec)",1518.2,Illinois River,36661,131.3,198,48.778,148.783,11,35.59539200000001,-95.03700799999996
+1067,155,Greers Ferry Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",3508,Little Red,37380,297.6,131,118.455,313.892,11,35.52055900000005,-91.99282899999997
+1077,158,Eufaula Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",5220.346,Canadian River,200280,74.7,178,354.962,694.626,11,35.30795200000002,-95.35793699999994
+1078,905,Dardanelle Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec), Fisheries (Sec)",630.545,Arkansas,1167250,1.6,106,94.299,202.154,11,35.25191200000005,-93.17291699999998
+1084,912,Blue Mountain Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec)",408.855,Petit Jean,13724,73.5,120,11.292,38.264,11,35.10295700000007,-93.65104199999996
+1086,913,Santa Rosa Lake,Flood control,"Flood control (Main), Irrigation (Sec), Recreation (Sec), Other (Sec)",128.011,Pecos River,2435,1151.7,1443,11.808,35.164,13,35.028960000000026,-104.68823499999996
+1092,3112,Nimrod Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",533.71,Fourche la Fave,24264,54.2,106,9.641,28.237,11,34.95283000000006,-93.16165999999998
+1093,919,Wister Lake,Flood control,"Flood control (Main), Water supply (Sec), Other (Sec)",705.789,Poteau River,26843,62.3,147,23.709,60.162,11,34.93958300000004,-94.71935099999996
+1101,925,Arkabutla Lake,Flood control,"Flood control (Main), Recreation (Sec)",1706.9,Coldwater River,67402,80.3,64,39.421,79.898,08,34.75614600000004,-90.12279299999994
+1112,162,Lake Ouachita,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec)",4638.8,Ouachita River,43813,335.7,181,144.325,548.951,08,34.57410500000006,-93.19508099999996
+1120,938,Waurika Lake,Flood control,"Flood control (Main), Irrigation (Sec), Water supply (Sec), Recreation (Sec), Other (Sec)",1153.9,Beaver Creek,4609,793.9,293,37.218,81.282,11,34.23997800000007,-98.05607999999995
+1121,939,Degray Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec)",1698.6,Caddo River,19169,281,126,45.197,184.123,08,34.21605800000002,-93.110417
+1122,3156,Gillham Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",273.6,Cossatot,10419,83.3,160,4.95,33.927,11,34.211828000000025,-94.22871499999998
+1123,945,Broken Bow Lake,Flood control,Flood control (Main),1976,Mountain Fork River,26800,233.8,188,54.408,188.518,11,34.14795200000003,-94.68414599999994
+1124,3158,Dierks Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",196.7,Saline,4505,138.5,164,4.936,35.08,11,34.145695000000075,-94.09560999999997
+1125,944,Lake Greeson,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",976.069,Little Missouri River,10988,213.8,170,22.409,148.369,08,34.14956100000007,-93.71635099999997
+1134,950,Pat Mayse Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",564.7,Sanders Creek,4559,392.8,142,21.354,49.598,11,33.85426999999999,-95.55717399999997
+1139,954,Lake Arrowhead Dam,Flood control,Flood control (Main),844.9,Little Wichita River,5694,470.5,282,43.144,98.037,11,33.762939000000046,-98.36038299999997
+1144,956,Millwood Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec)",1188.748,Little,148022,49,81,93.179,87.732,11,33.694799000000025,-93.96562499999999
+1151,960,Ray Roberts Lake,Water supply,"Water supply (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",2383,Elm Fork of Trinity River,10384,727.7,193,68.682,104.703,12,33.35640900000009,-97.05218899999994
+1164,971,Lewisville Lake,Recreation,Recreation (Main),2569.1,Elm Fork of Trinity River,24587,331.3,157,65.448,122.315,12,33.06989600000005,-96.96979199999998
+1170,974,Lavon Lake,Recreation,Recreation (Main),1136.3,East Fork of Trinity River,14003,257.3,151,68.446,103.399,12,33.03300200000007,-96.46979199999998
+1181,174,Lake Tawakoni,Recreation,Recreation (Main),2047.6,Sabine River,18125,358.2,134,137.601,160.323,12,32.81465500000011,-95.91464999999994
+1192,989,Caddo Lake,Navigation,"Navigation (Main), Water supply (Sec), Recreation (Sec)",931.3,Cypress Bayou,101899,29,53,60.257,124.618,11,32.707095000000024,-93.91636099999994
+1194,991,Benbrook Lake,Water supply,"Water supply (Main), Flood control (Sec), Recreation (Sec)",505.7,Clear Fork of Trinity River,4891,327.9,213,12.113,25.873,12,32.651213000000055,-97.45520799999997
+1197,992,Joe Pool Lake,Water supply,"Water supply (Main), Flood control (Sec), Recreation (Sec)",792.5,Mountain Creek,3265,769.7,160,23.514,52.534,12,32.642258999999974,-96.98854199999994
+1220,1002,Bardwell Lake,Water supply,"Water supply (Main), Flood control (Sec), Recreation (Sec)",391.6,Waxahachie Creek,2715,457.4,129,11.796,24.163,12,32.25252400000003,-96.64790799999997
+1237,1006,Navarro Mills Dam,Flood control,Flood control (Main),414.2,Richland Creek,4906,267.7,129,15.969,27.022,12,31.953148000000077,-96.69859599999997
+1243,1008,Robert Lee Dam,Recreation,Recreation (Main),999.1,Colorado River,4464,709.7,561,13.04,28.193,12,31.90205000000004,-100.51932099999999
+1247,1010,Lake Whitney,Water supply,"Water supply (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",2590.8,Brazos River,52770,155.7,159,70.513,156.726,12,31.869948000000058,-97.37043099999994
+1266,1017,Lake Limestone,Irrigation,Irrigation (Main),688.1,Navasota River,10414,209.5,110,45.292,108.316,12,31.327812000000087,-96.33032799999995
+1269,179,Toledo Bend,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Recreation (Sec), Navigation (Sec)",6287.7,Sabine,193925,102.8,51,599.133,729.75,12,31.174682000000068,-93.56654699999996
+1273,1019,Belton Dam,Recreation,Recreation (Main),2314.9,Leon River,15336,478.6,183,42.563,127.588,12,31.110239000000007,-97.47381799999994
+1280,1022,Lake Buchanan,Irrigation,"Irrigation (Main), Hydropower (Sec)",1211.3,Colorado River,34336,111.9,305,80.408,109.597,12,30.757588000000055,-98.41580299999998
+1285,1025,Laneport Reservoir,Recreation,Recreation (Main),328.846,San Gabriel River,6158,356.4,154,15.265,35.697,12,30.690415000000037,-97.33707699999997
+1286,3298,North San Gabriel Dam,Recreation,Recreation (Main),271.5,North Fork of San Gabriel River,2271,379.1,239,3.489,17.544,12,30.66925800000008,-97.72723499999995
+1291,1027,Alvin Wirtz Dam,Hydroelectricity,"Hydropower (Main), Recreation (Sec)",280,Colorado River,62334,14.2,251,19.043,73.886,12,30.560160000000067,-98.34077499999995
+1294,1029,Lake Travis,Irrigation,"Irrigation (Main), Hydropower (Sec)",3975.5,Colorado River,89281,141.2,204,51.266,205.047,12,30.393211000000054,-97.905713
+1302,1035,Canyon Lake,Water supply,"Water supply (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",1393,Guadalupe River,18452,239.4,276,30.587,90.243,12,29.871728000000076,-98.19970999999998
+1315,3314,Coleto Creek Dam,Flood control,Flood control (Main),208.5,Coleto Creek,8047,82.2,29,8.317,60.645,12,28.73541700000005,-97.17027799999994
+1317,1053,Lake Corpus Christi,Recreation,Recreation (Main),655,Nueces River,32338,64.2,28,59.049,146.788,12,28.047560999999977,-97.86908599999998
+1586,2664,J. Edward Roush Lake,Flood control,"Flood control (Main), Recreation (Sec)",75.54499999999966,Wabash River,23059,26,225,2.273,13.775,05,40.846824000000034,-85.46710499999995
+1587,2666,Salamonie Lake,Flood control,"Flood control (Main), Recreation (Sec)",325.1,Salamonie River,16522,62.4,229,7.536,41.849,05,40.80637300000007,-85.67582899999996
+1592,758,Mississinewa Lake,Flood control,"Flood control (Main), Recreation (Sec)",454.4,Mississinewa River,24524,58.8,223,10.749,54.005,05,40.714103000000094,-85.95520799999997
+1600,2694,Pleasant Hill Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",41.588,Clear Fork of Mohican River,5573,61.6,312,2.874,12.62,05,40.624274000000064,-82.32435299999997
+1631,2764,Dillon Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",97.758,Licking River,23101,46.4,228,4.949,25.658,05,39.99397000000001,-82.08189099999998
+1636,777,Senecaville Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",109.2,Seneca Fork of Wills Creek,3643,95.1,251,13.785,47.453,05,39.924326000000065,-81.43396099999995
+1645,2787,Cecil M. Harden Lake,Flood control,"Flood control (Main), Recreation (Sec)",163.8,Raccoon Creek,7325,70.9,195,5.631,27.547,05,39.72015799999999,-87.06770799999998
+1654,2806,Cagles Mill Lake,Flood control,"Flood control (Main), Recreation (Sec)",281.4,Mill Creek,10163,87.8,194,5.549,30.535,05,39.486722,-86.91458299999994
+1655,788,Caesar Creek Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",298.7,Caesar Creek,8301,114.1,259,10.448,39.189,05,39.48581900000009,-84.05925899999994
+1659,794,Lake Shelbyville,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Navigation (Sec)",1266.2,Kaskaskia River,24890,161.3,181,41.947,183.512,07,39.41050900000005,-88.77700599999997
+1683,2862,William H. Harsha Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",363.6,East Fork of Little Miami River,11788,97.8,229,7.825,39.817,05,39.02111900000005,-84.14666399999999
+1699,2894,Sutton Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",327.2,Elk River,34595,30,280,4.557,51.532,05,38.661883000000024,-80.69062499999995
+1703,817,Patoka Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",416.158,Patoka River,5095,231.6,165,32.979,157.447,05,38.433971000000064,-86.70603799999998
+1707,2916,Grayson Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",146.8,Little Sandy River,5681,81.9,201,2.896,37.423,05,38.251318000000005,-82.98429799999997
+1709,2918,Summersville Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",509.9,Gauley River,40145,40.3,483,4.818,47.301,05,38.22418500000002,-80.89020799999997
+1712,2926,East Lynn Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec)",101.8,East Fork of Twelvepole Creek,3785,85.3,210,3.281,40.401,05,38.14280600000008,-82.38667799999996
+1714,827,Cave Run Lake,Flood control,"Flood control (Main), Recreation (Sec), Other (Sec)",757.5,Licking River,25060,95.9,229,27.866,128.598,05,38.114969000000045,-83.53093199999995
+1718,831,Taylorsville Lake,Flood control,"Flood control (Main), Recreation (Sec), Other (Sec)",361.041,Salt River,13137,86.8,171,10.608,73.684,05,38.00202300000006,-85.30208299999998
+1726,2957,Dewey Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",57.169,Johns Creek of Levisa Fork,6115,59.7,207,3.276,37.733,05,37.73442300000008,-82.72598499999998
+1733,2969,R.D. Bailey Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",135.067,Guyandot River,19220,41.5,327,1.487,13.249,05,37.60045100000012,-81.82129999999995
+1735,2978,Fishtrap Lake,Flood control,"Flood control (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",84.176,Levisa Fork of Big Sandy River,12349,52,236,2.706,24.6,05,37.42702000000003,-82.40583499999997
+1739,2989,Buckhorn Lake,Flood control,"Flood control (Main), Recreation (Sec)",207.1,Middlefork Kentucky River,14560,45.1,238,2.254,40.237,05,37.33802700000008,-83.46993699999996
+1740,843,Nolin Lake,Flood control,"Flood control (Main), Recreation (Sec)",751.7,Nolin River,24443,97.5,156,17.994,158.611,05,37.27845800000005,-86.24652899999995
+1741,845,Green River Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Other (Sec)",892.1,Green River,25798,109.7,211,30.788,116.011,05,37.24791700000007,-85.33927699999998
+1742,2999,John W. Flannagan Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec), Other (Sec)",179.7,Pound River,7853,72.6,432,2.784,34.036,05,37.23120400000007,-82.34791699999994
+1752,144,Lake Barkley,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec), Navigation (Sec)",2568.1,Cumberland,713121,11.4,105,255.215,417.461,05,37.018747000000076,-88.21874799999995
+1753,145,Kentucky Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",7560,Tennessee River,2141379,11.2,106,574.795,736.012,06,37.01029599999998,-88.26865199999997
+1754,851,Laurel Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",550.87,Laurel,10576,161.1,311,19.031,141.596,05,36.959995000000035,-84.26747399999994
+1755,853,Barren River Lake,Flood control,"Flood control (Main), Water supply (Sec), Recreation (Sec)",1005.5,Barren River,40916,77.9,166,32.011,154.425,05,36.89348600000005,-86.12247499999995
+1756,147,Lake Cumberland,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec)",7510.7,Cumberland,235609,101.1,207,159.522,893.562,05,36.86781700000003,-85.14374999999995
+1758,3024,Philpott Reservoir,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec), Other (Sec)",392.6,Smith River,9779,127.3,302,8.255,78.29,03,36.78200100000002,-80.02868899999999
+1761,149,John H. Kerr Reservoir,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Recreation (Sec), Fisheries (Sec), Other (Sec)",4148.8,Roanoke River,265021,49.6,93,180.923,665.14,03,36.59626000000003,-78.29478399999994
+1762,862,Dale Hollow Lake,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec)",2104.3,Obey River,43141,154.7,194,89.645,365.186,05,36.538312000000076,-85.45025399999997
+1763,863,South Holston Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",942.4,South Fork of Holston River,34980,85.4,523,22.377,112.863,06,36.523027000000106,-82.08529099999998
+1765,866,Boone Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",238.6,South Fork of Holston River,95625,7.9,419,10.432,83.822,06,36.4389180000001,-82.434375
+1767,870,Watauga Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",835.1,Watauga River,26646,99.4,597,21.419,91.048,06,36.321600000000004,-82.12199299999997
+1768,873,Old Hickory Lake,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec), Navigation (Sec)",699.719,Cumberland River,516596,4.1,135,58.485,279.955,05,36.29189000000007,-86.65886899999998
+1770,877,Norris Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",3147.8,Clinch River,134500,74.2,303,88.032,577.485,06,36.227217000000046,-84.09267999999997
+1774,878,Cherokee Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",1900.8,Holston River,176702,34.1,317,71.118,284.833,06,36.164256000000066,-83.49753199999998
+1775,879,J. Percy Priest Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",805.901,Stones River,39143,65.1,149,52.85,193.42,05,36.15526100000009,-86.61799699999995
+1776,3047,W. Kerr Scott Reservoir,Water supply,"Water supply (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",89.824,Yadkin River,16925,70.7,320,5.159,37.934,03,36.132374000000006,-81.22820399999995
+1777,882,Center Hill Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",2580.4,Caney Fork River,106111,77.1,199,59.547,331.866,05,36.09652700000005,-85.82557999999995
+1781,884,Douglas Lake,Flood control,Flood control (Main),1900.8,French Broad River,284161,21.2,291,64.774,214.685,06,35.96336000000012,-83.53432199999997
+1782,885,Falls Lake,Water supply,"Water supply (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",416.142,Neuse River,22357,178.6,74,38.458,177.605,03,35.945046,-78.58244199999996
+1783,886,Melton Hill Lake,Navigation,"Navigation (Main), Hydropower (Sec), Recreation (Sec)",155.4,Clinch River,161567,3,243,17.549,135.352,06,35.882789000000045,-84.29671599999995
+1788,890,Tellico Lake,Recreation,"Recreation (Main), Other (Sec)",576.8,Little Tennessee River,560341,3.3,247,99.842,503.374,06,35.789583000000036,-84.23958299999998
+1796,894,B. Everett Jordan Lake,Water supply,"Water supply (Main), Recreation (Sec), Fisheries (Sec), Other (Sec)",704.001,Haw River,35658,180.6,68,36.969,133.15,03,35.656806000000074,-79.06866999999994
+1797,154,Watts Bar Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",1449.3,Tennessee River,1036748,4.4,222,120.678,433.788,06,35.62394500000004,-84.78020799999996
+1800,899,Normandy Lake,Hydroelectricity,"Hydropower (Main), Recreation (Sec)",155.5,Duck River,9014,54.7,269,10.624,55.239,06,35.4662450000001,-86.24270799999994
+1801,900,Fontana Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",1779.9,Little Tennessee River,127280,44.3,503,24.896,168.033,06,35.45339900000006,-83.80729199999996
+1818,911,Hiwassee Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",535.3,Hiwassee River,77329,22,450,12.393,102.062,06,35.152638000000046,-84.17604199999994
+1822,159,Chickamauga Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",909.4,Tennessee River,1301559,2.2,203,110.988,478.118,06,35.10202500000003,-85.22674199999994
+1823,3100,Parksville Lake,Hydroelectricity,"Hydropower (Main), Recreation (Sec)",102.7,Ocoee River,46345,7,251,6.119,34.109,06,35.09439300000004,-84.64655099999999
+1824,160,Pickwick Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",1363,Tennessee River,1967736,2.2,125,155.663,339.428,06,35.069376000000084,-88.24742899999995
+1828,915,Chatuge Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",296.7,Hiwassee River,10952,85.9,585,21.529,110.36,06,35.016806000000024,-83.79202999999995
+1829,916,Nickajack Lake,Navigation,"Navigation (Main), Hydropower (Sec), Recreation (Sec)",310.3,Tennessee River,1379772,0.7,188,39.046,177.313,06,35.00189900000004,-85.61824699999994
+1833,3111,Nottely Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec), Navigation (Sec)",215,Nottely River,17544,38.9,535,7.227,54.529,06,34.95590500000006,-84.09062499999999
+1834,3115,Lake Toccoa,Hydroelectricity,"Hydropower (Main), Recreation (Sec)",241.6,Toccoa River,18031,42.5,507,9.382,56.597,06,34.881121000000036,-84.27812499999999
+1835,161,Wheeler Lake,Hydroelectricity,"Hydropower (Main), Recreation (Sec)",1318.6,Tennessee River,1801464,2.3,165,154.744,272.663,06,34.80629900000004,-87.38023099999998
+1841,3130,Carters Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",583.2,Coosawattee River,25191,73.4,336,9.905,48.642,03,34.61458300000008,-84.66860999999994
+1843,928,Cedar Creek Reservoir,Flood control,"Flood control (Main), Recreation (Sec), Other (Sec)",130.4,Cedar Creek,9790,42.2,174,12.537,66.996,06,34.54375000000004,-87.97274099999998
+1847,163,Guntersville Lake,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",1293.9,Tennessee River,1521050,2.7,179,166.902,352.955,06,34.421538000000055,-86.39201999999995
+1848,164,Sardis Lake,Flood control,"Flood control (Main), Recreation (Sec)",3720.2,Little Tallahatchie River,105082,112.3,77,118.56,127.09,08,34.40734400000011,-89.79263399999996
+1851,165,Hartwell Lake,Hydroelectricity,"Hydropower (Main), Flood control (Sec), Recreation (Sec)",4241.6,Savannah River,123150,109.2,203,189.237,757.608,03,34.36049100000001,-82.82299299999994
+1862,942,Allatoona Lake,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec)",826.5,Etowah,57607,45.5,257,36.204,187.856,03,34.164969000000006,-84.72631299999995
+1863,166,Lake Sidney Lanier,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",3397.677,Chattahoochee River,64677,154.5,326,133.798,545.461,03,34.160840000000036,-84.07235699999995
+1864,943,Enid Lake,Flood control,"Flood control (Main), Recreation (Sec)",1496.8,Yocona River,42537,111.6,71,58.992,97.95,08,34.15165300000005,-89.90446999999995
+1869,169,Grenada Lake,Flood control,"Flood control (Main), Recreation (Sec)",3357.7,Yalobusha River,88235,120.7,61,107.448,120.806,08,33.814591000000036,-89.76873999999998
+1879,171,Lake Marion,Flood control,"Flood control (Main), Hydropower (Sec), Water supply (Sec), Recreation (Sec), Navigation (Sec)",1548.58,Santee River,561578,8.6,21,223.236,233.513,03,33.452083000000066,-80.16572999999994
+1883,961,Laurens Shoals,Hydroelectricity,"Hydropower (Main), Water supply (Sec), Recreation (Sec)",137.959,Oconee,64278,35.9,134,69.928,313.833,03,33.35275399999999,-83.15714899999995
+1896,977,West Point Lake,Flood control,"Flood control (Main), Hydropower (Sec), Recreation (Sec)",909.075,Chattahoochee River,159745,14.8,193,89.883,411.712,03,32.92455200000008,-85.19284699999997
+1910,178,Eufaula,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",1456.956,Chattahoochee River,287226,12.7,57,126.274,203.871,03,31.62751700000004,-85.06494499999997
+1916,1024,Lake Seminole,Navigation,"Navigation (Main), Hydropower (Sec), Flood control (Sec), Recreation (Sec)",513.577,Apalachicola River,644760,2.5,24,83.432,234.571,03,30.708037000000072,-84.86611499999998
