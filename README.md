@@ -1,9 +1,3 @@
----
-title: "README"
-output: html_document
-date: "2026-07-16"
----
-
 # Readme file
 
 Accompanying repository to the manuscript *Benchmarking Reservoir Release Policies Across CONUS: The Impact of Model Structure and Parameter Calibration*, submitted to Water Resources Research Journal.
