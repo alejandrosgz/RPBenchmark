@@ -10,11 +10,15 @@ Accompanying repository to the manuscript *Benchmarking Reservoir Release Polici
 
 Authors: Alejandro Sánchez-Gómez, Stefano Galelli, Hisham Eldardiry, Jon Herman.
 
-![Global Dam Watch attributes of reservoirs included in the benchmark.](figures/paper/FAA_1_map.png)
+This repository contains data and code necessary to run the release policies implemented. 
+
+See repository structure description for more information. 
+
+Further data may be available under request.
+
+![Global Dam Watch attributes of reservoirs included in the benchmark.](figures/FAA_1_map.png)
 
 ![Workflow of the reservoir simulation and release-policy benchmarking framework.](figures/FX_workflow.png)
-
-This repository contains data and code necessary to run the release policies implemented. See repository structure description for more information. Further data may be available under request.
 
 ### Structure
 
